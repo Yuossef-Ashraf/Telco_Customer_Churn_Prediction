@@ -1,28 +1,30 @@
-# Telco Customer Churn Prediction 📞📉
+# Telco Customer Churn Prediction
 
-End-to-end customer churn classification pipeline for telecom providers to identify churn risks and retention strategies.
+A predictive analytics model to identify customers at risk of churn for a telecommunications provider.
 
-## Key Features ✨
-- Well-structured code and clean modular implementation.
-- Built with modern standard tools: **Python, Pandas, Scikit-Learn, Exploratory Data Analysis**.
-- Clean data preprocessing, EDA, and model evaluation metrics.
+## Contents
+- **Code**: `Telco_Customer_Churn_Prediction (code).ipynb`
+- **Dataset / Resources**: `WA_Fn-UseC_-Telco-Customer-Churn.csv, 1telecom.csv`
+- **Documentation**: `README.md`
 
-## Project Structure 📂
-```
-Telco_Customer_Churn_Prediction/
-├── .gitignore
-├── README.md
-└── ... (project source files)
+## Requirements
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ```
 
-## Setup & Installation 🚀
+## Usage
+1. Clone the repository:
 ```bash
 git clone https://github.com/Yuossef-Ashraf/Telco_Customer_Churn_Prediction.git
 cd Telco_Customer_Churn_Prediction
 ```
+2. Open and run the project code:
+```bash
+jupyter notebook "Telco_Customer_Churn_Prediction (code).ipynb"
+```
 
-## Author 👤
-Created and maintained by **Yuossef Ashraf**.
+## Author
+Yuossef Ashraf
 
-## License 📜
-Distributed under the MIT License.
+## License
+MIT License
