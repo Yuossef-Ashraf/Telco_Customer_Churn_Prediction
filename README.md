@@ -2,9 +2,9 @@
 
 A predictive analytics model to identify customers at risk of churn for a telecommunications provider.
 
-## Contents
+## Project Structure
 - **Code**: `Telco_Customer_Churn_Prediction (code).ipynb`
-- **Dataset / Resources**: `WA_Fn-UseC_-Telco-Customer-Churn.csv, 1telecom.csv`
+- **Dataset / Resources**: `WA_Fn-UseC_-Telco-Customer-Churn.csv`
 - **Documentation**: `README.md`
 
 ## Requirements
@@ -18,7 +18,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 git clone https://github.com/Yuossef-Ashraf/Telco_Customer_Churn_Prediction.git
 cd Telco_Customer_Churn_Prediction
 ```
-2. Open and run the project code:
+2. Run the project:
 ```bash
 jupyter notebook "Telco_Customer_Churn_Prediction (code).ipynb"
 ```
